@@ -11,6 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adrian-pena-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrian-pena-dev" height="30" width="40" /></a>
+<a href="https://app.hackthebox.com/users/1586817" target="blank"><img align="center" src="https://yt3.ggpht.com/a/AGF-l785CVoAF3kqDmk2SXyaDLZKEyK9lDP8xYnyKw=s900-c-k-c0xffffffff-no-rj-mo" alt="adripb2003" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
