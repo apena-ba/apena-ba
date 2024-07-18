@@ -3,7 +3,7 @@
 
 - 🐉 I’m currently working on **OSCP**
 
-- 💡 I am interested in **Pentesting, Software Development, Entrepeneuriship**
+- 💡 I am interested in **Pentesting, Software Development, Entrepreneurship**
 
 - 📫 How to reach me **adripbar03@gmail.com**
 
