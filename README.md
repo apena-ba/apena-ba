@@ -1,7 +1,7 @@
 <h1 align="center">Adrián Peña</h1>
-<h3 align="center">Cybersecurity analyst - Málaga / Berlin</h3>
+<h3 align="center">Cybersecurity analyst - Málaga</h3>
 
-- 🐉 I’m currently working on **OSCP**
+- 📚 I’m currently studying at **42**
 
 - 💡 I am interested in **Pentesting, Software Development, Entrepreneurship**
 
