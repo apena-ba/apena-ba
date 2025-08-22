@@ -1,5 +1,5 @@
 # 👋 Hello, I'm **Adrián Peña**  
-## 🐉 𝑶𝑺𝑪𝑷 | 🎯 𝒆𝑱𝑷𝑻𝒗2 | 📚 42
+## 🐉 𝑶𝑺𝑪𝑷 | ⚔️ 𝒆𝑱𝑷𝑻𝒗2 | 📚 42
 
 [![](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/adrian-pena-dev) 
 [![](https://img.shields.io/badge/-HackTheBox-%23239120?style=flat-square&logo=hackthebox&logoColor=ffffff)](https://app.hackthebox.com/users/1586817) 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🏆 CVEs 
+## 🎯 CVEs
 
 [![CVE-2024-6536](https://svg.bookmark.style/api?url=https://wpscan.com/vulnerability/ee40c1c6-4186-4b97-866c-fb0e76cedeb8/&mode=light&style=horizontal)](https://wpscan.com/vulnerability/ee40c1c6-4186-4b97-866c-fb0e76cedeb8/)  
 [![CVE-2024-39304](https://svg.bookmark.style/api?url=https://github.com/ChurchCRM/CRM/security/advisories/GHSA-2rh6-gr3h-83j9&mode=dark&style=horizontal)](https://github.com/ChurchCRM/CRM/security/advisories/GHSA-2rh6-gr3h-83j9)  
