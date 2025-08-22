@@ -2,8 +2,7 @@
 ## 🐉 𝑶𝑺𝑪𝑷 | ⚔️ 𝒆𝑱𝑷𝑻𝒗2 | 📚 42
 
 [![](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/adrian-pena-dev) 
-[![](https://img.shields.io/badge/-HackTheBox-%23239120?style=flat-square&logo=hackthebox&logoColor=ffffff)](https://app.hackthebox.com/users/1586817) 
-[![](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/apena-ba) 
+[![](https://img.shields.io/badge/-HackTheBox-%23239120?style=flat-square&logo=hackthebox&logoColor=ffffff)](https://app.hackthebox.com/users/1586817)
 [![](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=ffffff)](https://medium.com/@adripbar03)
 
 𝑰 ❤️ 𝑶𝒇𝒇𝒆𝒏𝒔𝒊𝒗𝒆 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚
