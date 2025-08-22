@@ -24,8 +24,20 @@
 
 ## 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀  
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=ffffff) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=000000) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=microsoft&logoColor=ffffff) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000000) ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=ffffff) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff) ![Metasploit](https://img.shields.io/badge/-Metasploit-3787C4?style=flat-square&logo=metasploit&logoColor=ffffff) ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=ffffff)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=ffffff)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=000000)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000)  
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
+ 
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=microsoft&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=ffffff)
+![Metasploit](https://img.shields.io/badge/-Metasploit-3787C4?style=flat-square&logo=metasploit&logoColor=ffffff)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=ffffff)  
 
 ---
 
