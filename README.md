@@ -1,6 +1,7 @@
 # 👋 Hello, I'm **Adrián Peña**  
 ## 🐉 𝑶𝑺𝑪𝑷 | ⚔️ 𝒆𝑱𝑷𝑻𝒗2 | 📚 42
 
+[![](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adripbar03@gmail.com)](mailto:adripbar03@gmail.com)
 [![](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/adrian-pena-dev) 
 [![](https://img.shields.io/badge/-HackTheBox-%23239120?style=flat-square&logo=hackthebox&logoColor=ffffff)](https://app.hackthebox.com/users/1586817)
 [![](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=ffffff)](https://medium.com/@adripbar03)
