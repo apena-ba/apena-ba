@@ -1,7 +1,10 @@
 # 👋 Hello, I'm **Adrián Peña**  
 ## 🐉 𝑶𝑺𝑪𝑷 | 🎯 𝒆𝑱𝑷𝑻𝒗2 | 📚 42
 
-[![](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/adrian-pena-dev) [![](https://img.shields.io/badge/-HackTheBox-%23239120?style=flat-square&logo=hackthebox&logoColor=ffffff)](https://app.hackthebox.com/users/1586817) [![](https://img.shields.io/badge/-apena--ba-%23181717?style=flat-square&logo=github)](https://github.com/apena-ba)
+[![](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/adrian-pena-dev) 
+[![](https://img.shields.io/badge/-HackTheBox-%23239120?style=flat-square&logo=hackthebox&logoColor=ffffff)](https://app.hackthebox.com/users/1586817) 
+[![](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/apena-ba) 
+[![](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=ffffff)](https://medium.com/@adripbar03)
 
 𝑰 ❤️ 𝑶𝒇𝒇𝒆𝒏𝒔𝒊𝒗𝒆 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚
 
@@ -13,12 +16,8 @@
 
 ---
 
-## 🏆 Certifications & Accomplishments  
+## 🏆 CVEs 
 
-[![OSCP+](https://svg.bookmark.style/api?url=https://credentials.offsec.com/5bf1ab73-0f99-4a4d-9a83-fe36fcad7838&mode=light&style=horizontal)](https://credentials.offsec.com/5bf1ab73-0f99-4a4d-9a83-fe36fcad7838#acc.nStB0LmA)  
-[![OSCP](https://svg.bookmark.style/api?url=https://credentials.offsec.com/a88f8df3-9841-48df-8f8c-64cb08361fd0&mode=dark&style=horizontal)](https://credentials.offsec.com/a88f8df3-9841-48df-8f8c-64cb08361fd0#acc.VOZ8iqzT)  
-[![eJPTv2](https://svg.bookmark.style/api?url=https://certs.ine.com/55720850-d348-4079-a9d9-037f06609b3d&mode=light&style=horizontal)](https://certs.ine.com/55720850-d348-4079-a9d9-037f06609b3d#acc.xm6HJv9U)  
-[![Google Cybersecurity](https://svg.bookmark.style/api?url=https://www.coursera.org/account/accomplishments/professional-cert/X5MNUZTNENH3&mode=dark&style=horizontal)](https://www.coursera.org/account/accomplishments/professional-cert/X5MNUZTNENH3)  
 [![CVE-2024-6536](https://svg.bookmark.style/api?url=https://wpscan.com/vulnerability/ee40c1c6-4186-4b97-866c-fb0e76cedeb8/&mode=light&style=horizontal)](https://wpscan.com/vulnerability/ee40c1c6-4186-4b97-866c-fb0e76cedeb8/)  
 [![CVE-2024-39304](https://svg.bookmark.style/api?url=https://github.com/ChurchCRM/CRM/security/advisories/GHSA-2rh6-gr3h-83j9&mode=dark&style=horizontal)](https://github.com/ChurchCRM/CRM/security/advisories/GHSA-2rh6-gr3h-83j9)  
 
