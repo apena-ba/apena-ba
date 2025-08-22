@@ -1,20 +1,36 @@
-<h1 align="center">Adrián Peña</h1>
-<h3 align="center">Cybersecurity analyst - Málaga</h3>
+# 👋 Hello, I'm **Adrián Peña**  
+## 🐉 𝑶𝑺𝑪𝑷 | 🎯 𝒆𝑱𝑷𝑻𝒗2 | 📚 42
 
-- 📚 I’m currently studying at **42**
+[![](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/adrian-pena-dev) [![](https://img.shields.io/badge/-HackTheBox-%23239120?style=flat-square&logo=hackthebox&logoColor=ffffff)](https://app.hackthebox.com/users/1586817) [![](https://img.shields.io/badge/-apena--ba-%23181717?style=flat-square&logo=github)](https://github.com/apena-ba)
 
-- 💡 I am interested in **Pentesting, Software Development, Entrepreneurship**
+𝑰 ❤️ 𝑶𝒇𝒇𝒆𝒏𝒔𝒊𝒗𝒆 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚
 
-- 📫 How to reach me **adripbar03@gmail.com**
+💻 𝑨 𝒄𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝒆𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕 𝒘𝒊𝒕𝒉 𝒂 𝒑𝒂𝒔𝒔𝒊𝒐𝒏 𝒇𝒐𝒓 𝑹𝒆𝒅 𝑻𝒆𝒂𝒎
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adrian-pena-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrian-pena-dev" height="30" width="40" /></a>
-<a href="https://app.hackthebox.com/users/1586817" target="blank"><img align="center" src="https://media.list.ly/production/323832/2479585/2479585-can-you-hack-this-box_600px.png?ver=0296472097" alt="adripb2003" height="30" width="40" /></a>
-</p>
+🚀 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒑𝒖𝒓𝒔𝒖𝒊𝒏𝒈 **RNCP6 & RNCP7** 𝒂𝒕 **42** 𝒔𝒄𝒉𝒐𝒐𝒍
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+💡 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒆𝒏𝒕𝒓𝒆𝒑𝒓𝒆𝒏𝒆𝒖𝒓𝒔𝒉𝒊𝒑 & 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒔𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=apena-ba&show_icons=true&locale=en&layout=compact" alt="apena-ba" /></p>
+---
 
+## 🏆 Certifications & Accomplishments  
+
+[![OSCP+](https://svg.bookmark.style/api?url=https://credentials.offsec.com/5bf1ab73-0f99-4a4d-9a83-fe36fcad7838&mode=light&style=horizontal)](https://credentials.offsec.com/5bf1ab73-0f99-4a4d-9a83-fe36fcad7838#acc.nStB0LmA)  
+[![OSCP](https://svg.bookmark.style/api?url=https://credentials.offsec.com/a88f8df3-9841-48df-8f8c-64cb08361fd0&mode=dark&style=horizontal)](https://credentials.offsec.com/a88f8df3-9841-48df-8f8c-64cb08361fd0#acc.VOZ8iqzT)  
+[![eJPTv2](https://svg.bookmark.style/api?url=https://certs.ine.com/55720850-d348-4079-a9d9-037f06609b3d&mode=light&style=horizontal)](https://certs.ine.com/55720850-d348-4079-a9d9-037f06609b3d#acc.xm6HJv9U)  
+[![Google Cybersecurity](https://svg.bookmark.style/api?url=https://www.coursera.org/account/accomplishments/professional-cert/X5MNUZTNENH3&mode=dark&style=horizontal)](https://www.coursera.org/account/accomplishments/professional-cert/X5MNUZTNENH3)  
+[![CVE-2024-6536](https://svg.bookmark.style/api?url=https://wpscan.com/vulnerability/ee40c1c6-4186-4b97-866c-fb0e76cedeb8/&mode=light&style=horizontal)](https://wpscan.com/vulnerability/ee40c1c6-4186-4b97-866c-fb0e76cedeb8/)  
+[![CVE-2024-39304](https://svg.bookmark.style/api?url=https://github.com/ChurchCRM/CRM/security/advisories/GHSA-2rh6-gr3h-83j9&mode=dark&style=horizontal)](https://github.com/ChurchCRM/CRM/security/advisories/GHSA-2rh6-gr3h-83j9)  
+
+---
+
+## 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀  
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=ffffff) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=000000) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=microsoft&logoColor=ffffff) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000000) ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=ffffff) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff) ![Metasploit](https://img.shields.io/badge/-Metasploit-3787C4?style=flat-square&logo=metasploit&logoColor=ffffff) ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=ffffff)  
+
+---
+
+## 𝗦𝘁𝗮𝘁𝘀  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=apena-ba&show_icons=true&locale=en&layout=compact&theme=dracula)  
