@@ -32,7 +32,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=ffffff)
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=microsoft&logoColor=ffffff)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logoColor=ffffff)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=ffffff)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-3787C4?style=flat-square&logo=metasploit&logoColor=ffffff)
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=ffffff)
