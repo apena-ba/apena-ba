@@ -1,24 +1,30 @@
-# 👋 Hello, I'm **Adrián Peña**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Adrian%20Peña&fontSize=80&fontColor=ffffff&animation=fadeIn" width="100%" />
+</p>
 
-[![](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adripbar03@gmail.com)](mailto:adripbar03@gmail.com)
-[![](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/adrian-pena-dev)
-[![](https://img.shields.io/badge/-HackTheBox-%23239120?style=flat-square&logo=hackthebox&logoColor=ffffff)](https://app.hackthebox.com/users/1586817)
-[![](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=ffffff)](https://medium.com/@adripbar03)
+<h3 align="center">
+  <samp>
+    &gt; Hi there! 👋
+  </samp>
+</h3>
 
-𝑰 ❤️ 𝑶𝒇𝒇𝒆𝒏𝒔𝒊𝒗𝒆 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚
+<p align="center">
+  <a href="https://medium.com/@adripbar03"><img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=ffffff"/></a>
+  <a href="mailto:adripbar03@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/adrian-pena-sec"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=ffffff"/></a>
+  <a href="https://app.hackthebox.com/users/1586817"><img src="https://img.shields.io/badge/-HackTheBox-%23239120?style=flat-square&logo=hackthebox&logoColor=ffffff"/></a>
+</p>
 
-💻 C𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝒆𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕 𝒘𝒊𝒕𝒉 𝒂 𝒑𝒂𝒔𝒔𝒊𝒐𝒏 𝒇𝒐𝒓 𝑹𝒆𝒅 𝑻𝒆𝒂𝒎
+## About me
+- Offensive security engineer with professional experience in application, mobile and product security.
+- Interested in Application Security, Product Security and Vulnerability Research.
 
-🚀 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒑𝒖𝒓𝒔𝒖𝒊𝒏𝒈 **RNCP6 & RNCP7** 𝒂𝒕 **42** 𝒔𝒄𝒉𝒐𝒐𝒍
-
-💡 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒗𝒖𝒍𝒏𝒆𝒓𝒂𝒃𝒊𝒍𝒊𝒕𝒚 𝒓𝒆𝒔𝒆𝒂𝒓𝒄𝒉
-
-## 𝗖𝗩𝗘𝘀
+## CVEs
 
 [![CVE-2024-6536](https://svg.bookmark.style/api?url=https://github.com/apena-ba/CVE-2024-6536&mode=dark&style=horizontal)](#https://github.com/apena-ba/CVE-2024-6536)
 [![CVE-2024-39304](https://svg.bookmark.style/api?url=https://github.com/ChurchCRM/CRM/security/advisories/GHSA-2rh6-gr3h-83j9&mode=dark&style=horizontal)](https://github.com/ChurchCRM/CRM/security/advisories/GHSA-2rh6-gr3h-83j9)
 
-## 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀
+## Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=ffffff)
@@ -37,6 +43,9 @@
 ![Metasploit](https://img.shields.io/badge/-Metasploit-3787C4?style=flat-square&logo=metasploit&logoColor=ffffff)
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=ffffff)
 
-## 𝗦𝘁𝗮𝘁𝘀
+## Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=apena-ba&show_icons=true&locale=en&layout=compact&theme=dracula)
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&animation=fadeIn" width="100%" />
