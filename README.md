@@ -21,7 +21,7 @@
 
 ## CVEs
 
-[![CVE-2024-6536](https://svg.bookmark.style/api?url=https://github.com/apena-ba/CVE-2024-6536&mode=dark&style=horizontal)](#https://github.com/apena-ba/CVE-2024-6536)
+[![CVE-2024-6536](https://svg.bookmark.style/api?url=https://github.com/apena-ba/CVE-2024-6536&mode=dark&style=horizontal)](https://github.com/apena-ba/CVE-2024-6536)
 [![CVE-2024-39304](https://svg.bookmark.style/api?url=https://github.com/ChurchCRM/CRM/security/advisories/GHSA-2rh6-gr3h-83j9&mode=dark&style=horizontal)](https://github.com/ChurchCRM/CRM/security/advisories/GHSA-2rh6-gr3h-83j9)
 
 ## Languages and Tools
